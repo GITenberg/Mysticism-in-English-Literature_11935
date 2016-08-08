@@ -1,0 +1,27 @@
+_repo: Mysticism-in-English-Literature_11935
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Spurgeon, Caroline F. E. (Caroline Frances Eleanor)
+    alias: Spurgeon, C. F. E. (Caroline Frances Eleanor)
+    birthdate: 1869
+    deathdate: 1942
+    gutenberg_agent_id: '4140'
+    url: http://www.gutenberg.org/2009/agents/4140
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11935'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mysticism in literature'
+- !lcc 'PR'
+- !lcsh 'English literature -- History and criticism'
+- !lcsh 'Mysticism -- Great Britain'
+- GITenberg
+title: Mysticism in English Literature
+url: http://www.gutenberg.org/ebooks/11935
