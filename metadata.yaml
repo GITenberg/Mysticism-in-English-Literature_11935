@@ -1,5 +1,8 @@
 _repo: Mysticism-in-English-Literature_11935
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Spurgeon, Caroline F. E. (Caroline Frances Eleanor)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '4140'
     url: http://www.gutenberg.org/2009/agents/4140
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11935#Mysticism-in-English-Literature
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
